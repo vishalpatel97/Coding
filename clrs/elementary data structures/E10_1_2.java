@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner6;
-
 /**
  * Implement 2 stack in an array[1..n] such that neither stack overflows unless the total
  * number of elements in both stacks together is n

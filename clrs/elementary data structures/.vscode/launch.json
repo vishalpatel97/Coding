@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E10_1_6",
+            "request": "launch",
+            "mainClass": "E10_1_6",
+            "projectName": "elementary data structures_f9875c2e"
+        }
+    ]
+}

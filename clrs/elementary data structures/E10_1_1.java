@@ -10,7 +10,7 @@ class Stack{
     }
 
     boolean isFull(){
-        if(top!=stack.length)
+        if(top!=stack.length-1)
             return false;
         else
             return true;
